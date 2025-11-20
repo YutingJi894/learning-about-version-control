@@ -1,3 +1,4 @@
 # Learning about Version Control
-- created by Yuting Ji
+- created by Yuting Ji <br>
+
 Solving merge conflicts is easy!
