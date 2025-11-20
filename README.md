@@ -1,2 +1,2 @@
-# learning-about-version-control
+# Learning about Version Control
 - created by Yuting Ji
